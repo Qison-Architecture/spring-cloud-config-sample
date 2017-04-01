@@ -1,1 +1,1 @@
-±¾Ê¾ÀıÊÇÍ¨¹ıÔÄ¶ÁSpring¹ÙÍøÉÏµÄ Spring Cloud Config °æ±¾Îª 1.3.0 M1 µÄÖ¸ÄÏ¶ø´´½¨µÄÊ¾Àı
+æœ¬ç¤ºä¾‹æ˜¯é€šè¿‡é˜…è¯»Springå®˜ç½‘ä¸Šçš„ (http://cloud.spring.io/spring-cloud-config/)[Spring Cloud Config] ç‰ˆæœ¬ä¸º (http://cloud.spring.io/spring-cloud-static/spring-cloud-config/1.3.0.RC1/)[1.3.0 M1] çš„æŒ‡å—è€Œåˆ›å»ºçš„ç¤ºä¾‹
